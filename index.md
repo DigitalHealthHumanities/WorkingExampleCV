@@ -25,4 +25,4 @@ Testing here
 
 {% include_relative _includes/conferences.md %}
 
-{% include_relative _includes/service.md %}
+<!--{% include_relative _includes/service.md %}-->
