@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Sean Purcell works at UCSF and does things!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Digital Humanities:** Minimal computing, github pages, anticolonial archives
+- **Health Humanities:** History of medicine
+- **Media Studies:** Medical media, specimen studies
 
 {% include_relative _includes/education.md %}
 
